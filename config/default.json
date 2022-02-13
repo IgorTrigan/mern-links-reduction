@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "ihor artjs mern",
+  "mongoUri": "mongodb+srv://Igor:703818op@cluster0.i4ffd.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
